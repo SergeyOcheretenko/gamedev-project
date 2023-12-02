@@ -8,10 +8,10 @@ export const vehicleColors = [
   0xa52523, 0xef2d56, 0x0ad3ff, 0xff9f1c, 0xa52523, 0xbdb638, 0x78b14b,
 ];
 
-export const lawnGreen = '#67C240';
-export const trackColor = '#546E90';
-export const edgeColor = '#725F48';
-export const treeCrownColor = 0x498c2c;
+export const lawnGreen = '#b479be';
+export const trackColor = '#ffbdf4';
+export const edgeColor = '#5500b4';
+export const treeCrownColor = 0x5533ff;
 export const treeTrunkColor = 0x4b3f2f;
 
 export const trackRadius = 225;
